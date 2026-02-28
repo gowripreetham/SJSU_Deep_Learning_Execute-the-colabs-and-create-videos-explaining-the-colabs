@@ -113,7 +113,7 @@ Each notebook below includes:
 
 ## 1️⃣1️⃣ PyTorch Neural Networks (Production Style)
 - Colab:  
-  https://colab.research.google.com/drive/1TnR6k3CnCLq0nrxtP0bNwXQReIk5pqFB?authuser=1
+  https://colab.research.google.com/drive/1mzeCteO08I7JqcBBYED_jgGAc3U-3QdY?authuser=1
 - Video:  
   https://www.loom.com/share/bf6a29119be94528b8cad0c26650b67b
 
